@@ -1,0 +1,23 @@
+C:/Users/ojasr/Desktop/ECE352/WHW05/ALU_cell.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/WHW05/ALU_cell.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU_cell
+-- Compiling module FA
+
+Top level modules:
+	ALU_cell
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/WHW05/ALU.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/WHW05/ALU.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/WHW05/ALU_tb.sv {1 {vlog -work work -sv -stats=none {C:\Users\ojasr\Desktop\ECE352\WHW05\ALU_tb.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}}

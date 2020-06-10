@@ -1,0 +1,110 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/ojasr/Desktop/ECE352/AHW2 p2
+vALU
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+!s110 1571639833
+!i10b 1
+!s100 @[Q?>iX`<Hj8LY[kAMIZU2
+IVBf;aZBkRVFVd;azPKGbb0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ALU_sv_unit
+S1
+Z2 dC:/Users/ojasr/Desktop/ECE352/WHW05
+w1571639830
+8C:/Users/ojasr/Desktop/ECE352/WHW05/ALU.sv
+FC:/Users/ojasr/Desktop/ECE352/WHW05/ALU.sv
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1571639833.000000
+!s107 C:/Users/ojasr/Desktop/ECE352/WHW05/ALU.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ojasr/Desktop/ECE352/WHW05/ALU.sv|
+!s101 -O0
+!i113 1
+Z5 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@l@u
+vALU_cell
+R0
+Z6 !s110 1571639834
+!i10b 1
+!s100 8^8@mBYbQSZLI=L6C8EH72
+In1OB5QUDM5M`;T@6c<6Ab0
+R1
+Z7 !s105 ALU_cell_sv_unit
+S1
+R2
+Z8 w1571638892
+Z9 8C:/Users/ojasr/Desktop/ECE352/WHW05/ALU_cell.sv
+Z10 FC:/Users/ojasr/Desktop/ECE352/WHW05/ALU_cell.sv
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+Z11 !s107 C:/Users/ojasr/Desktop/ECE352/WHW05/ALU_cell.sv|
+Z12 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ojasr/Desktop/ECE352/WHW05/ALU_cell.sv|
+!s101 -O0
+!i113 1
+R5
+n@a@l@u_cell
+vALU_tb
+R0
+R6
+!i10b 1
+!s100 RQ[iZ5z;akM<VX8<8d4HE0
+I:;j[QfK?bR_6Y0:ZIaXff2
+R1
+!s105 ALU_tb_sv_unit
+S1
+R2
+w1571637756
+8C:\Users\ojasr\Desktop\ECE352\WHW05\ALU_tb.sv
+FC:\Users\ojasr\Desktop\ECE352\WHW05\ALU_tb.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1571639834.000000
+!s107 C:\Users\ojasr\Desktop\ECE352\WHW05\ALU_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\ojasr\Desktop\ECE352\WHW05\ALU_tb.sv|
+!s101 -O0
+!i113 1
+R5
+n@a@l@u_tb
+vFA
+R0
+R6
+!i10b 1
+!s100 mXK9]@cGNFHcZa9aXoWfR3
+I?dC``7`dB^:l0QSgJTF>F2
+R1
+R7
+S1
+R2
+R8
+R9
+R10
+L0 54
+R3
+r1
+!s85 0
+31
+R4
+R11
+R12
+!s101 -O0
+!i113 1
+R5
+n@f@a

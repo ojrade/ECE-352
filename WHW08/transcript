@@ -1,0 +1,104 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile C:/Users/ojasr/Desktop/ECE352/WHW08/WHW08.mpf
+# Loading project WHW08
+vsim work.packet_rcv_tb
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui C:\Users\ojasr\Desktop\ECE352\WHW08\WHW08.mpf 
+# Start time: 20:14:57 on Dec 01,2019
+# Loading sv_std.std
+# Loading work.packet_rcv_tb
+# Loading work.packet_rcv
+# Loading work.packet_SM
+# Loading work.state3_reg
+# Loading work.holding_reg
+# Loading work.manchester_RX
+# Loading work.manchester_TX
+# Loading work.d_ff
+add wave -position insertpoint  \
+sim:/packet_rcv_tb/clk \
+sim:/packet_rcv_tb/rst_n \
+sim:/packet_rcv_tb/tx_data \
+sim:/packet_rcv_tb/trmt \
+sim:/packet_rcv_tb/error \
+sim:/packet_rcv_tb/TX_RX \
+sim:/packet_rcv_tb/pckt \
+sim:/packet_rcv_tb/pckt_rdy \
+sim:/packet_rcv_tb/tx_done \
+wait_rdy
+# (vish-4014) No objects found matching 'wait_rdy'.
+run -all
+# ERR : Expected pckt to 0xBEFOOD
+# ** Note: $stop    : C:/Users/ojasr/Desktop/ECE352/WHW08/packet_rcv_tb.sv(81)
+#    Time: 53685 ps  Iteration: 5  Instance: /packet_rcv_tb
+# Break in Module packet_rcv_tb at C:/Users/ojasr/Desktop/ECE352/WHW08/packet_rcv_tb.sv line 81
+# Compile of state3_reg.sv was successful.
+# Compile of manchester_RX.sv was successful.
+# Compile of manchester_RX_tb.sv was successful.
+# Compile of manchester_TX.sv was successful.
+# Compile of packet_rcv.sv was successful.
+# Compile of packet_rcv_tb.sv was successful.
+# Compile of packet_SM.sv was successful.
+# Compile of d_ff.sv was successful.
+# 8 compiles, 0 failed with no errors.
+# Compile of state3_reg.sv was successful.
+# Compile of manchester_RX.sv was successful.
+# Compile of manchester_RX_tb.sv was successful.
+# Compile of manchester_TX.sv was successful.
+# Compile of packet_rcv.sv was successful.
+# Compile of packet_rcv_tb.sv was successful.
+# Compile of packet_SM.sv was successful.
+# Compile of d_ff.sv was successful.
+# 8 compiles, 0 failed with no errors.
+add wave -position insertpoint  \
+sim:/packet_rcv_tb/clk \
+sim:/packet_rcv_tb/rst_n \
+sim:/packet_rcv_tb/tx_data \
+sim:/packet_rcv_tb/trmt \
+sim:/packet_rcv_tb/error \
+sim:/packet_rcv_tb/TX_RX \
+sim:/packet_rcv_tb/pckt \
+sim:/packet_rcv_tb/pckt_rdy \
+sim:/packet_rcv_tb/tx_done
+add wave -position insertpoint  \
+sim:/packet_rcv_tb/iDUT/clk \
+sim:/packet_rcv_tb/iDUT/rst_n \
+sim:/packet_rcv_tb/iDUT/RX \
+sim:/packet_rcv_tb/iDUT/pckt_rdy \
+sim:/packet_rcv_tb/iDUT/pckt \
+sim:/packet_rcv_tb/iDUT/byte_rdy \
+sim:/packet_rcv_tb/iDUT/en_high \
+sim:/packet_rcv_tb/iDUT/en_low \
+sim:/packet_rcv_tb/iDUT/data
+restart
+# Loading work.packet_rcv_tb
+# Loading work.packet_rcv
+# Loading work.packet_SM
+# Loading work.state3_reg
+# Loading work.holding_reg
+# Loading work.manchester_RX
+# Loading work.manchester_TX
+# Loading work.d_ff
+run -all
+# YAHOO! test passed!
+# ** Note: $stop    : C:/Users/ojasr/Desktop/ECE352/WHW08/packet_rcv_tb.sv(81)
+#    Time: 53685 ps  Iteration: 5  Instance: /packet_rcv_tb
+# Break in Module packet_rcv_tb at C:/Users/ojasr/Desktop/ECE352/WHW08/packet_rcv_tb.sv line 81
+# End time: 16:33:10 on Dec 04,2019, Elapsed time: 68:18:13
+# Errors: 1, Warnings: 0

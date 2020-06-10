@@ -1,0 +1,55 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile C:/Users/ojasr/Desktop/ECE352/AHW2/AHW2.mpf
+# Loading project AHW2
+vsim work.bcd7seg
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui C:\Users\ojasr\Desktop\ECE352\AHW2\AHW2.mpf 
+# Start time: 14:39:25 on Oct 08,2019
+# Loading sv_std.std
+# Loading work.bcd7seg
+# ** Error: (vsim-3033) C:/Users/ojasr/Desktop/ECE352/AHW2/bcd7seg.sv(9): Instantiation of 'segA' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /bcd7seg File: C:/Users/ojasr/Desktop/ECE352/AHW2/bcd7seg.sv
+#         Searched libraries:
+#             C:/Users/ojasr/Desktop/ECE352/AHW2/work
+# ** Error: (vsim-3033) C:/Users/ojasr/Desktop/ECE352/AHW2/bcd7seg.sv(10): Instantiation of 'segB' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /bcd7seg File: C:/Users/ojasr/Desktop/ECE352/AHW2/bcd7seg.sv
+#         Searched libraries:
+#             C:/Users/ojasr/Desktop/ECE352/AHW2/work
+# ** Error: (vsim-3033) C:/Users/ojasr/Desktop/ECE352/AHW2/bcd7seg.sv(11): Instantiation of 'segC' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /bcd7seg File: C:/Users/ojasr/Desktop/ECE352/AHW2/bcd7seg.sv
+#         Searched libraries:
+#             C:/Users/ojasr/Desktop/ECE352/AHW2/work
+# ** Error: (vsim-3033) C:/Users/ojasr/Desktop/ECE352/AHW2/bcd7seg.sv(12): Instantiation of 'segD' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /bcd7seg File: C:/Users/ojasr/Desktop/ECE352/AHW2/bcd7seg.sv
+#         Searched libraries:
+#             C:/Users/ojasr/Desktop/ECE352/AHW2/work
+# ** Error: (vsim-3033) C:/Users/ojasr/Desktop/ECE352/AHW2/bcd7seg.sv(13): Instantiation of 'segE' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /bcd7seg File: C:/Users/ojasr/Desktop/ECE352/AHW2/bcd7seg.sv
+#         Searched libraries:
+#             C:/Users/ojasr/Desktop/ECE352/AHW2/work
+# ** Error: (vsim-3033) C:/Users/ojasr/Desktop/ECE352/AHW2/bcd7seg.sv(14): Instantiation of 'segF' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /bcd7seg File: C:/Users/ojasr/Desktop/ECE352/AHW2/bcd7seg.sv
+#         Searched libraries:
+#             C:/Users/ojasr/Desktop/ECE352/AHW2/work
+# ** Error: (vsim-3033) C:/Users/ojasr/Desktop/ECE352/AHW2/bcd7seg.sv(15): Instantiation of 'segG' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /bcd7seg File: C:/Users/ojasr/Desktop/ECE352/AHW2/bcd7seg.sv
+#         Searched libraries:
+#             C:/Users/ojasr/Desktop/ECE352/AHW2/work
+# Error loading design

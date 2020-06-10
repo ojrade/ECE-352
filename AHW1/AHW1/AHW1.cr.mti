@@ -1,0 +1,36 @@
+./FA_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW1/FA_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FA_tb
+
+Top level modules:
+	FA_tb
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW1/RCA4_smarter.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW1/RCA4_smarter.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RCA4_smarter
+
+Top level modules:
+	RCA4_smarter
+
+} {} {}} ./RCA4.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW1/RCA4.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RCA4
+
+Top level modules:
+	RCA4
+
+} {} {}} ./RCA4_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW1/RCA4_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module RCA4_tb
+
+Top level modules:
+	RCA4_tb
+
+} {} {}} ./FA.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW1/FA.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}}

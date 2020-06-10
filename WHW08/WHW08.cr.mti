@@ -1,0 +1,58 @@
+./manchester_RX_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/WHW08/manchester_RX_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module manchester_RX_tb
+
+Top level modules:
+	manchester_RX_tb
+
+} {} {}} ./manchester_TX.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/WHW08/manchester_TX.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module manchester_TX
+
+Top level modules:
+	manchester_TX
+
+} {} {}} ./state3_reg.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/WHW08/state3_reg.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module state3_reg
+
+Top level modules:
+	state3_reg
+
+} {} {}} ./packet_rcv.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/WHW08/packet_rcv.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module packet_rcv
+-- Compiling module holding_reg
+
+Top level modules:
+	packet_rcv
+
+} {} {}} ./packet_SM.sv {1 {vlog -work work -sv -stats=none {C:\Users\ojasr\Desktop\ECE352\WHW08\packet_SM.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module packet_SM
+
+Top level modules:
+	packet_SM
+
+} {} {}} ./manchester_RX.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/WHW08/manchester_RX.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module manchester_RX
+
+Top level modules:
+	manchester_RX
+
+} {} {}} ./d_ff.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/WHW08/d_ff.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module d_ff
+
+Top level modules:
+	d_ff
+
+} {} {}} ./packet_rcv_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/WHW08/packet_rcv_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module packet_rcv_tb
+
+Top level modules:
+	packet_rcv_tb
+
+} {} {}}

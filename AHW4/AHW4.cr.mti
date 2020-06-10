@@ -1,0 +1,106 @@
+C:/Users/ojasr/Desktop/ECE352/AHW4/edge_detect.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW4/edge_detect.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module edge_detect
+
+Top level modules:
+	edge_detect
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW4/manchester_TX.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW4/manchester_TX.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module manchester_TX
+
+Top level modules:
+	manchester_TX
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW4/hex7seg.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW4/hex7seg.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module hex7seg
+
+Top level modules:
+	hex7seg
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW4/bit_cnt.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW4/bit_cnt.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bit_cnt
+
+Top level modules:
+	bit_cnt
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW4/state5_reg.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW4/state5_reg.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module state5_reg
+
+Top level modules:
+	state5_reg
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW4/rise_edge_detect_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW4/rise_edge_detect_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module rise_edge_detect_tb
+
+Top level modules:
+	rise_edge_detect_tb
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW4/AHW4_top.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW4/AHW4_top.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module AHW4_top
+
+Top level modules:
+	AHW4_top
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW4/d_ff.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW4/d_ff.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module d_ff
+
+Top level modules:
+	d_ff
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW4/rise_edge_detect.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW4/rise_edge_detect.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module rise_edge_detect
+
+Top level modules:
+	rise_edge_detect
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW4/manchester_RX_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW4/manchester_RX_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module manchester_RX_tb
+
+Top level modules:
+	manchester_RX_tb
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW4/d_en_ff.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW4/d_en_ff.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module d_en_ff
+
+Top level modules:
+	d_en_ff
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW4/per_capture.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW4/per_capture.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module per_capture
+
+Top level modules:
+	per_capture
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW4/shft_reg.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW4/shft_reg.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module shft_reg
+
+Top level modules:
+	shft_reg
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW4/per_cnt.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW4/per_cnt.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module per_cnt
+
+Top level modules:
+	per_cnt
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW4/manchester_RX.sv {1 {vlog -work work -sv -stats=none {C:\Users\ojasr\Desktop\ECE352\AHW4\manchester_RX.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module manchester_RX
+
+Top level modules:
+	manchester_RX
+
+} {} {}}

@@ -1,0 +1,92 @@
+./segAdec.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW2/segAdec.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module segAdec
+
+Top level modules:
+	segAdec
+
+} {} {}} ./bin2bcd.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW2/bin2bcd.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bin2bcd
+
+Top level modules:
+	bin2bcd
+
+} {} {}} ./segBdec.sv {1 {vlog -work work -sv -stats=none {C:\Users\ojasr\Desktop\ECE352\AHW2\segBdec.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module segBdec
+
+Top level modules:
+	segBdec
+
+} {} {}} ./segCdec.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW2/segCdec.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module segCdec
+
+Top level modules:
+	segCdec
+
+} {} {}} ./segDdec.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW2/segDdec.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module segDdec
+
+Top level modules:
+	segDdec
+
+} {} {}} ./segEdec.sv {1 {vlog -work work -sv -stats=none {C:\Users\ojasr\Desktop\ECE352\AHW2\segEdec.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module segEdec
+
+Top level modules:
+	segEdec
+
+} {} {}} ./hex7seg_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW2/hex7seg_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module hex7seg_tb
+
+Top level modules:
+	hex7seg_tb
+
+} {} {}} ./segFdec.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW2/segFdec.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module segFdec
+
+Top level modules:
+	segFdec
+
+} {} {}} ./bin2bcd_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW2/bin2bcd_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bin2bcd_tb
+
+Top level modules:
+	bin2bcd_tb
+
+} {} {}} ./segGdec.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW2/segGdec.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module segGdec
+
+Top level modules:
+	segGdec
+
+} {} {}} ./hex7seg.sv {1 {vlog -work work -sv -stats=none {C:\Users\ojasr\Desktop\ECE352\AHW2\hex7seg.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module hex7seg
+
+Top level modules:
+	hex7seg
+
+} {} {}} ./bcd7seg_tb.sv {1 {vlog -work work -sv -stats=none {C:\Users\ojasr\Desktop\ECE352\AHW2\bcd7seg_tb.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bcd7seg_tb
+
+Top level modules:
+	bcd7seg_tb
+
+} {} {}} ./bcd7seg.sv {1 {vlog -work work -sv -stats=none {C:\Users\ojasr\Desktop\ECE352\AHW2\bcd7seg.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bcd7seg
+
+Top level modules:
+	bcd7seg
+
+} {} {}}

@@ -1,0 +1,60 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile C:/Users/ojasr/Desktop/ECE352/AHW4/AHW4.mpf
+# Loading project AHW4
+vsim work.manchester_RX_tb
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui C:\Users\ojasr\Desktop\ECE352\AHW4\AHW4.mpf 
+# Start time: 05:14:42 on Dec 01,2019
+# Loading sv_std.std
+# Loading work.manchester_RX_tb
+# Loading work.manchester_TX
+# Loading work.manchester_RX
+# Loading work.edge_detect
+# Loading work.d_ff
+# Loading work.per_cnt
+# Loading work.per_capture
+# Loading work.shft_reg
+# Loading work.bit_cnt
+# Loading work.state5_reg
+# Loading work.d_en_ff
+add wave -position insertpoint  \
+sim:/manchester_RX_tb/iDUT/clk \
+sim:/manchester_RX_tb/iDUT/rst_n \
+sim:/manchester_RX_tb/iDUT/RX \
+sim:/manchester_RX_tb/iDUT/data \
+sim:/manchester_RX_tb/iDUT/rdy \
+sim:/manchester_RX_tb/iDUT/nxt_state \
+sim:/manchester_RX_tb/iDUT/shft \
+sim:/manchester_RX_tb/iDUT/clr_per \
+sim:/manchester_RX_tb/iDUT/capture_per \
+sim:/manchester_RX_tb/iDUT/clr_bit_cnt \
+sim:/manchester_RX_tb/iDUT/inc_bit_cnt \
+sim:/manchester_RX_tb/iDUT/per_eq_cap \
+sim:/manchester_RX_tb/iDUT/bit_cnt \
+sim:/manchester_RX_tb/iDUT/sig_rise \
+sim:/manchester_RX_tb/iDUT/sig_fall \
+sim:/manchester_RX_tb/iDUT/sig_ff2 \
+sim:/manchester_RX_tb/iDUT/period \
+sim:/manchester_RX_tb/iDUT/captured_period \
+sim:/manchester_RX_tb/iDUT/done8 \
+sim:/manchester_RX_tb/iDUT/state
+run
+# End time: 20:14:28 on Dec 01,2019, Elapsed time: 14:59:46
+# Errors: 0, Warnings: 0

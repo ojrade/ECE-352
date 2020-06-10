@@ -1,0 +1,135 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ojasr/Desktop/ECE352/AHW1
+vFA
+Z1 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z2 !s110 1568876211
+!i10b 1
+!s100 ^a@V:>72C=z^B<O[8L`5]1
+Ih2SW[H0nN<:GafJ4n3Lc>0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 FA_sv_unit
+S1
+R0
+w1568872268
+8C:/Users/ojasr/Desktop/ECE352/AHW1/FA.sv
+FC:/Users/ojasr/Desktop/ECE352/AHW1/FA.sv
+L0 5
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1568876211.000000
+!s107 C:/Users/ojasr/Desktop/ECE352/AHW1/FA.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ojasr/Desktop/ECE352/AHW1/FA.sv|
+!s101 -O0
+!i113 1
+Z6 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@f@a
+vFA_tb
+R1
+R2
+!i10b 1
+!s100 >>k3M@2KdX@j67AM4D9A33
+IeS61:kFUN4F`AO4C^WaML3
+R3
+!s105 FA_tb_sv_unit
+S1
+R0
+Z7 w1568830419
+8C:/Users/ojasr/Desktop/ECE352/AHW1/FA_tb.sv
+FC:/Users/ojasr/Desktop/ECE352/AHW1/FA_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ojasr/Desktop/ECE352/AHW1/FA_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ojasr/Desktop/ECE352/AHW1/FA_tb.sv|
+!s101 -O0
+!i113 1
+R6
+n@f@a_tb
+vRCA4
+R1
+R2
+!i10b 1
+!s100 EA=Go4a@_IDzh87U4[OJ33
+I]_jJ4SZ72h_276W58HaYP0
+R3
+!s105 RCA4_sv_unit
+S1
+R0
+w1568876198
+8C:/Users/ojasr/Desktop/ECE352/AHW1/RCA4.sv
+FC:/Users/ojasr/Desktop/ECE352/AHW1/RCA4.sv
+L0 5
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ojasr/Desktop/ECE352/AHW1/RCA4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ojasr/Desktop/ECE352/AHW1/RCA4.sv|
+!s101 -O0
+!i113 1
+R6
+n@r@c@a4
+vRCA4_smarter
+R1
+R2
+!i10b 1
+!s100 z5AaRgPWP8hSbA3:_^?e^0
+IAF`l[8S=8dlk8T9:=XJGK3
+R3
+!s105 RCA4_smarter_sv_unit
+S1
+R0
+w1568876206
+8C:/Users/ojasr/Desktop/ECE352/AHW1/RCA4_smarter.sv
+FC:/Users/ojasr/Desktop/ECE352/AHW1/RCA4_smarter.sv
+L0 5
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ojasr/Desktop/ECE352/AHW1/RCA4_smarter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ojasr/Desktop/ECE352/AHW1/RCA4_smarter.sv|
+!s101 -O0
+!i113 1
+R6
+n@r@c@a4_smarter
+vRCA4_tb
+R1
+R2
+!i10b 1
+!s100 XCF:gjjYn^RMFgZ<zTQEn1
+I1A3^lIoPB>ojASYZTkV]81
+R3
+!s105 RCA4_tb_sv_unit
+S1
+R0
+R7
+8C:/Users/ojasr/Desktop/ECE352/AHW1/RCA4_tb.sv
+FC:/Users/ojasr/Desktop/ECE352/AHW1/RCA4_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ojasr/Desktop/ECE352/AHW1/RCA4_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/ojasr/Desktop/ECE352/AHW1/RCA4_tb.sv|
+!s101 -O0
+!i113 1
+R6
+n@r@c@a4_tb

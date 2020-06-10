@@ -1,0 +1,231 @@
+C:/Users/ojasr/Desktop/ECE352/AHW5/bit_cnt.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/bit_cnt.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bit_cnt
+
+Top level modules:
+	bit_cnt
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/hex7seg.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/hex7seg.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module hex7seg
+
+Top level modules:
+	hex7seg
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/msg_ROM.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/msg_ROM.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module msg_ROM
+
+Top level modules:
+	msg_ROM
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/AHW5_top.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/AHW5_top.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module AHW5_top
+
+Top level modules:
+	AHW5_top
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/bcd7seg.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/bcd7seg.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bcd7seg
+
+Top level modules:
+	bcd7seg
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/state3_reg.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/state3_reg.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module state3_reg
+
+Top level modules:
+	state3_reg
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/d_en_ff.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/d_en_ff.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module d_en_ff
+
+Top level modules:
+	d_en_ff
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/per_capture.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/per_capture.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module per_capture
+
+Top level modules:
+	per_capture
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/msg_byte_cnt_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/msg_byte_cnt_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module msg_byte_cnt_tb
+
+Top level modules:
+	msg_byte_cnt_tb
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/per_cnt.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/per_cnt.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module per_cnt
+
+Top level modules:
+	per_cnt
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/manchester_RX.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/manchester_RX.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module manchester_RX
+
+Top level modules:
+	manchester_RX
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/state5_reg.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/state5_reg.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module state5_reg
+
+Top level modules:
+	state5_reg
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/bin2bcd.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/bin2bcd.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module bin2bcd
+
+Top level modules:
+	bin2bcd
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/segAdec.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/segAdec.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module segAdec
+
+Top level modules:
+	segAdec
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/msg_send_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/msg_send_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module msg_send_tb
+
+Top level modules:
+	msg_send_tb
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/segBdec.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/segBdec.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module segBdec
+
+Top level modules:
+	segBdec
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/edge_detect.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/edge_detect.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module edge_detect
+
+Top level modules:
+	edge_detect
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/LCD_write.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/LCD_write.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LCD_write
+
+Top level modules:
+	LCD_write
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/manchester_TX.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/manchester_TX.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module manchester_TX
+
+Top level modules:
+	manchester_TX
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/msg_byte_cnt.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/msg_byte_cnt.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module msg_byte_cnt
+
+Top level modules:
+	msg_byte_cnt
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/state3_reg_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/state3_reg_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module state3_reg_tb
+
+Top level modules:
+	state3_reg_tb
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/segCdec.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/segCdec.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module segCdec
+
+Top level modules:
+	segCdec
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/segDdec.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/segDdec.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module segDdec
+
+Top level modules:
+	segDdec
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/d_ff.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/d_ff.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module d_ff
+
+Top level modules:
+	d_ff
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/rise_edge_detect.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/rise_edge_detect.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module rise_edge_detect
+
+Top level modules:
+	rise_edge_detect
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/msg_send.sv {0 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/msg_send.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module msg_send
+** Error: (vlog-13069) C:/Users/ojasr/Desktop/ECE352/AHW5/msg_send.sv(13): near "?": syntax error, unexpected '?', expecting IDENTIFIER or TYPE_IDENTIFIER or NETTYPE_IDENTIFIER.
+
+** Error: (vlog-13069) C:/Users/ojasr/Desktop/ECE352/AHW5/msg_send.sv(26): near "?": syntax error, unexpected '?'.
+
+** Error: (vlog-13069) C:/Users/ojasr/Desktop/ECE352/AHW5/msg_send.sv(48): near "?": syntax error, unexpected '?'.
+
+** Error: (vlog-13069) C:/Users/ojasr/Desktop/ECE352/AHW5/msg_send.sv(52): near "?": syntax error, unexpected '?'.
+
+
+} {4.0 5.0 6.0 7.0 8.0 9.0 10.0 11.0} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/manchester_RX_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/manchester_RX_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module manchester_RX_tb
+
+Top level modules:
+	manchester_RX_tb
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/segEdec.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/segEdec.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module segEdec
+
+Top level modules:
+	segEdec
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/segFdec.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/segFdec.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module segFdec
+
+Top level modules:
+	segFdec
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/LCD2x16.v {1 {vlog -work work -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/LCD2x16.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LCD2x16
+-- Compiling module LCD_Controller
+
+Top level modules:
+	LCD2x16
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/shft_reg.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/shft_reg.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module shft_reg
+
+Top level modules:
+	shft_reg
+
+} {} {}} C:/Users/ojasr/Desktop/ECE352/AHW5/segGdec.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Desktop/ECE352/AHW5/segGdec.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module segGdec
+
+Top level modules:
+	segGdec
+
+} {} {}}

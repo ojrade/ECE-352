@@ -1,0 +1,37 @@
+C:/Users/ojasr/Downloads/LUT3.sv {1 {vlog -work work -sv -stats=none {C:\Users\ojasr\Downloads\LUT3.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LUT3
+
+Top level modules:
+	LUT3
+
+} {} {}} C:/Users/ojasr/Downloads/func_mux4.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Downloads/func_mux4.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module func_mux4
+-- Compiling module mux4_2_1
+
+Top level modules:
+	func_mux4
+
+} {} {}} C:/Users/ojasr/Downloads/func_mux4_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Downloads/func_mux4_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module func_mux4_tb
+
+Top level modules:
+	func_mux4_tb
+
+} {} {}} C:/Users/ojasr/Downloads/func_3LUTs.sv {1 {vlog -work work -sv -stats=none {C:\Users\ojasr\Downloads\func_3LUTs.sv}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module func_3LUTs
+
+Top level modules:
+	func_3LUTs
+
+} {} {}} C:/Users/ojasr/Downloads/func_3LUTs_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/ojasr/Downloads/func_3LUTs_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module func_3LUTs_tb
+
+Top level modules:
+	func_3LUTs_tb
+
+} {} {}}

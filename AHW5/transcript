@@ -1,0 +1,75 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile C:/Users/ojasr/Desktop/ECE352/AHW5/AHW5.mpf
+# Loading project AHW5
+# Compile of state5_reg.sv was successful.
+# Compile of AHW5_top.sv was successful.
+# Compile of bcd7seg.sv was successful.
+# Compile of bin2bcd.sv was successful.
+# Compile of bit_cnt.sv was successful.
+# Compile of d_en_ff.sv was successful.
+# Compile of d_ff.sv was successful.
+# Compile of edge_detect.sv was successful.
+# Compile of hex7seg.sv was successful.
+# Compile of LCD_write.sv was successful.
+# Compile of LCD2x16.v was successful.
+# Compile of manchester_RX.sv was successful.
+# Compile of manchester_RX_tb.sv was successful.
+# Compile of manchester_TX.sv was successful.
+# Compile of msg_send.sv failed with 4 errors.
+# Compile of msg_send_tb.sv was successful.
+# Compile of per_capture.sv was successful.
+# Compile of per_cnt.sv was successful.
+# Compile of rise_edge_detect.sv was successful.
+# Compile of segAdec.sv was successful.
+# Compile of segBdec.sv was successful.
+# Compile of segCdec.sv was successful.
+# Compile of segDdec.sv was successful.
+# Compile of segEdec.sv was successful.
+# Compile of segFdec.sv was successful.
+# Compile of segGdec.sv was successful.
+# Compile of shft_reg.sv was successful.
+# Compile of msg_byte_cnt_tb.sv was successful.
+# Compile of msg_ROM.sv was successful.
+# Compile of state3_reg_tb.sv was successful.
+# Compile of msg_byte_cnt.sv was successful.
+# Compile of state3_reg.sv was successful.
+# 32 compiles, 1 failed with 4 errors.
+vsim work.state3_reg_tb
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui C:\Users\ojasr\Desktop\ECE352\AHW5\AHW5.mpf 
+# Start time: 21:38:23 on Dec 04,2019
+# Loading sv_std.std
+# Loading work.state3_reg_tb
+# Loading work.state3_reg
+# Loading work.d_ff
+add wave -position insertpoint  \
+sim:/state3_reg_tb/iDUT/clk \
+sim:/state3_reg_tb/iDUT/rst_n \
+sim:/state3_reg_tb/iDUT/nxt_state \
+sim:/state3_reg_tb/iDUT/state \
+sim:/state3_reg_tb/iDUT/clrn_vector \
+sim:/state3_reg_tb/iDUT/prn_vector
+run -all
+# YAHOO! test passed for state3_reg
+# ** Note: $stop    : C:/Users/ojasr/Desktop/ECE352/AHW5/state3_reg_tb.sv(64)
+#    Time: 42 ps  Iteration: 0  Instance: /state3_reg_tb
+# Break in Module state3_reg_tb at C:/Users/ojasr/Desktop/ECE352/AHW5/state3_reg_tb.sv line 64
+# End time: 14:11:39 on Dec 12,2019, Elapsed time: 184:33:16
+# Errors: 0, Warnings: 0

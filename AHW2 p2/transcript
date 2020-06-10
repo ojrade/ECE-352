@@ -1,0 +1,116 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile {C:/Users/ojasr/Desktop/ECE352/AHW2 p2/AHW2.mpf}
+# Loading project AHW2
+vsim work.bcd7seg_tb
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui C:\Users\ojasr\Desktop\ECE352\AHW2 p2\AHW2.mpf 
+# Start time: 14:59:44 on Oct 10,2019
+# Loading sv_std.std
+# Loading work.bcd7seg_tb
+# Loading work.bcd7seg
+# Loading work.segAdec
+# Loading work.segBdec
+# Loading work.segCdec
+# Loading work.segDdec
+# Loading work.segEdec
+# Loading work.segFdec
+# Loading work.segGdec
+add wave -position insertpoint  \
+sim:/bcd7seg_tb/iDUT/num \
+{sim:/bcd7seg_tb/iDUT/num[3]} \
+{sim:/bcd7seg_tb/iDUT/num[2]} \
+{sim:/bcd7seg_tb/iDUT/num[1]} \
+{sim:/bcd7seg_tb/iDUT/num[0]} \
+sim:/bcd7seg_tb/iDUT/seg \
+{sim:/bcd7seg_tb/iDUT/seg[6]} \
+{sim:/bcd7seg_tb/iDUT/seg[5]} \
+{sim:/bcd7seg_tb/iDUT/seg[4]} \
+{sim:/bcd7seg_tb/iDUT/seg[3]} \
+{sim:/bcd7seg_tb/iDUT/seg[2]} \
+{sim:/bcd7seg_tb/iDUT/seg[1]} \
+{sim:/bcd7seg_tb/iDUT/seg[0]}
+run
+# YAHOO! test for bcd7seg passed
+# ** Note: $stop    : C:/Users/ojasr/Desktop/ECE352/AHW2 p2/bcd7seg_tb.sv(26)
+#    Time: 50 ps  Iteration: 0  Instance: /bcd7seg_tb
+# Break in Module bcd7seg_tb at C:/Users/ojasr/Desktop/ECE352/AHW2 p2/bcd7seg_tb.sv line 26
+vsim work.bin2bcd
+# vsim 
+# Start time: 15:04:29 on Oct 10,2019
+# Loading sv_std.std
+# Loading work.bin2bcd
+vsim work.bin2bcd_tb
+# vsim 
+# Start time: 15:04:43 on Oct 10,2019
+# Loading sv_std.std
+# Loading work.bin2bcd_tb
+# Loading work.bin2bcd
+add wave -position insertpoint  \
+sim:/bin2bcd_tb/iDUT/bin \
+{sim:/bin2bcd_tb/iDUT/bin[3]} \
+{sim:/bin2bcd_tb/iDUT/bin[2]} \
+{sim:/bin2bcd_tb/iDUT/bin[1]} \
+{sim:/bin2bcd_tb/iDUT/bin[0]} \
+sim:/bin2bcd_tb/iDUT/upper \
+{sim:/bin2bcd_tb/iDUT/upper[3]} \
+{sim:/bin2bcd_tb/iDUT/upper[2]} \
+{sim:/bin2bcd_tb/iDUT/upper[1]} \
+{sim:/bin2bcd_tb/iDUT/upper[0]} \
+sim:/bin2bcd_tb/iDUT/lower \
+{sim:/bin2bcd_tb/iDUT/lower[3]} \
+{sim:/bin2bcd_tb/iDUT/lower[2]} \
+{sim:/bin2bcd_tb/iDUT/lower[1]} \
+{sim:/bin2bcd_tb/iDUT/lower[0]}
+restart
+run
+# YAHOO! test for bcd2bin passed
+# ** Note: $stop    : C:/Users/ojasr/Desktop/ECE352/AHW2 p2/bin2bcd_tb.sv(39)
+#    Time: 80 ps  Iteration: 0  Instance: /bin2bcd_tb
+# Break in Module bin2bcd_tb at C:/Users/ojasr/Desktop/ECE352/AHW2 p2/bin2bcd_tb.sv line 39
+vsim work.hex7seg_tb
+# vsim 
+# Start time: 15:06:20 on Oct 10,2019
+# Loading sv_std.std
+# Loading work.hex7seg_tb
+# Loading work.hex7seg
+vsim work.hex7seg_tb
+# vsim 
+# Start time: 15:06:32 on Oct 10,2019
+# Loading sv_std.std
+# Loading work.hex7seg_tb
+# Loading work.hex7seg
+add wave -position insertpoint  \
+sim:/hex7seg_tb/iDUT/nibble \
+sim:/hex7seg_tb/iDUT/seg \
+{sim:/hex7seg_tb/iDUT/seg[6]} \
+{sim:/hex7seg_tb/iDUT/seg[5]} \
+{sim:/hex7seg_tb/iDUT/seg[4]} \
+{sim:/hex7seg_tb/iDUT/seg[3]} \
+{sim:/hex7seg_tb/iDUT/seg[2]} \
+{sim:/hex7seg_tb/iDUT/seg[1]} \
+{sim:/hex7seg_tb/iDUT/seg[0]}
+restart
+run
+# YAHOO! test for hex7seg passed
+# ** Note: $stop    : C:/Users/ojasr/Desktop/ECE352/AHW2 p2/hex7seg_tb.sv(26)
+#    Time: 80 ps  Iteration: 0  Instance: /hex7seg_tb
+# Break in Module hex7seg_tb at C:/Users/ojasr/Desktop/ECE352/AHW2 p2/hex7seg_tb.sv line 26
+# End time: 15:07:38 on Oct 10,2019, Elapsed time: 0:01:06
+# Errors: 0, Warnings: 0
